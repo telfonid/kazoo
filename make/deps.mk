@@ -72,7 +72,7 @@ dep_meck = git https://github.com/eproxus/meck
 dep_nklib = git https://github.com/NetComposer/nklib v0.4.1
 dep_plists = hex 1.0.0
 
-dep_erlcloud = git https://github.com/erlcloud/erlcloud 3.2.4
+dep_erlcloud = git https://github.com/irfanrifai/erlang-erlcloud 3.2.4-ap-southeast-3
 
 dep_erlazure = git https://github.com/lazedo/erlazure.git add-start-link
 
